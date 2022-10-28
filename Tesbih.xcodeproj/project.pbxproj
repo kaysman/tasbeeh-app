@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		521B42FF290C04380045C838 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 521B42FE290C04380045C838 /* README.md */; };
 		525DAF6E290AB6BA009C2590 /* TesbihApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 525DAF6D290AB6BA009C2590 /* TesbihApp.swift */; };
 		525DAF70290AB6BA009C2590 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 525DAF6F290AB6BA009C2590 /* ContentView.swift */; };
 		525DAF72290AB6BA009C2590 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 525DAF71290AB6BA009C2590 /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		521B42FE290C04380045C838 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		525DAF6A290AB6BA009C2590 /* Tesbih.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tesbih.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		525DAF6D290AB6BA009C2590 /* TesbihApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TesbihApp.swift; sourceTree = "<group>"; };
 		525DAF6F290AB6BA009C2590 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 		525DAF61290AB6BA009C2590 = {
 			isa = PBXGroup;
 			children = (
+				521B42FE290C04380045C838 /* README.md */,
 				525DAF6C290AB6BA009C2590 /* Tesbih */,
 				525DAF7D290AB6BB009C2590 /* TesbihTests */,
 				525DAF87290AB6BB009C2590 /* TesbihUITests */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				521B42FF290C04380045C838 /* README.md in Resources */,
 				525DAF75290AB6BA009C2590 /* Preview Assets.xcassets in Resources */,
 				525DAF72290AB6BA009C2590 /* Assets.xcassets in Resources */,
 			);
