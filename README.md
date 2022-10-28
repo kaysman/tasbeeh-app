@@ -1,4 +1,4 @@
-# Tesbih iOS App
+# Tasbih iOS App
 
 ## _This is tasbih app with simple feature: counting tasbihs you wish to dhikr._
 
